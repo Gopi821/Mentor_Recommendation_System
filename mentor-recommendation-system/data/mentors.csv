@@ -1,0 +1,6 @@
+mentor_id,mentor_name,skills,expertise,latitude,longitude,rating,experience_years
+1,Rahul,"Python Machine Learning SQL","Artificial Intelligence Data Science",17.3850,78.4867,4.8,8
+2,Kiran,"Java Spring Boot","Backend Development",17.4239,78.4738,4.6,5
+3,David,"Python Deep Learning","Computer Vision AI",13.0827,80.2707,4.9,10
+4,Suresh,"Python Data Analysis SQL","Data Science Analytics",15.8281,78.0373,4.7,6
+5,Priya,"Machine Learning Deep Learning","AI Computer Vision",12.9716,77.5946,4.9,9
